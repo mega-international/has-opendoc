@@ -20,3 +20,4 @@ hugo server
 ```
 
 alors
+je comprenbd pas ou ca commit
