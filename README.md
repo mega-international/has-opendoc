@@ -18,6 +18,3 @@ Once you've cloned the site repo, from the repo root folder, run:
 ```
 hugo server
 ```
-
-alors
-je comprenbd pas ou ca commit
