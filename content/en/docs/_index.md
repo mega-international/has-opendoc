@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "HOPEX STORE Documentation"
+linkTitle: "HOPEX STORE Documentation"
 weight: 20
 menu:
   main:
