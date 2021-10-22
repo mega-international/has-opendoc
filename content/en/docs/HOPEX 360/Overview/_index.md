@@ -28,10 +28,10 @@ It only considers the scope of the ITPM and ITBM licence.
 Once generated, the static website needs to be hosted on an IIS webserver to enable all the functionalities.
 The functionalities that require IIS include but are not limited to:
 *	Application Force Diagram
-![application_force_diagram](assets/markdown-img-paste-20211022170831432.png)
+![application_force_diagram](assets/application_force_diagram.png)
 
 *	Capabilities and Process Tree List
-![Capabilities_and_Process_Tree_List](assets/markdown-img-paste-20211022170912787.png)
+![Capabilities_and_Process_Tree_List](assets/Capabilities_and_Process_Tree_List.png)
 
 ### Languages
 The website structure is available in both English and French. The translations can be amended using the _Code Templates referenced in the descriptors.
