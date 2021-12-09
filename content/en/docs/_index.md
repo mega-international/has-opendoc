@@ -1,7 +1,7 @@
 
 ---
 title: "HOPEX STORE Docs"
-linkTitle: "HOPEX STORE Docs"
+linkTitle: "HOPEX STORE Docs Update"
 weight: 20
 menu:
   main:
