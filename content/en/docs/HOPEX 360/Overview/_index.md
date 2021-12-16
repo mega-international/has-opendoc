@@ -10,7 +10,7 @@ All general information you need to know about HOPEX 360
 {{% /pageinfo %}}
 
 ## Technical limitations
-### HOPEX Version
+### HOPEX Version V5 CP1
 This website template is qualified against the HOPEX V3 version.
 
 ### Web browser Version
